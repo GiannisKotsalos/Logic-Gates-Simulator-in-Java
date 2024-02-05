@@ -23,6 +23,6 @@ input1x and input1y represent the row and column, respectively, of the first inp
 
 input2x and input2y represent the row and column, respectively, of the second input for the  gate.
 
-These variables are then used in the calcOutput method to access the corresponding boolean values in the bbholes 2D array. The result is calculated based on the logical AND operation between the values at the specified input coordinates.
+These variables are then used in the calcOutput method to access the corresponding boolean values in the bbholes 2D array. The result is calculated based on the logical  operation between the values at the specified input coordinates.
 
 Feel free to explore, modify, and contribute to enhance the functionality or add new features. Share your insights and improvements with the community!
